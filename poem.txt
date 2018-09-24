@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Green
+INDIGO changed in master after making ponies branch
 UNICORN
 yellow
 Red
